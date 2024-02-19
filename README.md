@@ -3,7 +3,7 @@
 ## react-native-camera is deprecated.
 
 ostanin-ikbo-07-22
-vasilii
+vasilii-19.02.24
 olegovich
 Due to the lack of maintainers and increased code complexity, react-native-camera is now deprecated in favor of [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera).
 
